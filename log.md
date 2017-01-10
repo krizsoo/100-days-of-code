@@ -8,3 +8,12 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+
+### Day 2: January 10, 2017
+
+**Today's Progress**: Working on portfolio page, Finishing navbar and learning about animations.css
+
+**Thoughts:** Had less time to code today spent more on reading and learning about css 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
