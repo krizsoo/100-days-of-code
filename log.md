@@ -17,3 +17,11 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 3: January 11, 2017
+
+**Today's Progress**: finished navbar and working on page header
+
+**Thoughts:** learnt how to position on top of eachother and keep their responsiveness 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
