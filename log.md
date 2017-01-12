@@ -17,6 +17,7 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+
 ### Day 3: January 11, 2017
 
 **Today's Progress**: finished navbar and working on page header
@@ -25,3 +26,11 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+
+### Day 4: January 12, 2017
+
+**Today's Progress**: finished header on portfolio page and started working on the thumbnail images
+
+**Thoughts:** learnt about the transition CSS property
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
