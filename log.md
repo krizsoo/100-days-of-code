@@ -34,3 +34,13 @@
 **Thoughts:** learnt about the transition CSS property
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 5: January 13, 2017
+
+**Today's Progress**: Working on thumbnail images understanding more of transitions 
+
+**Thoughts:** Trying to replicate hover effect  on thumbnail images from scratch
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+
