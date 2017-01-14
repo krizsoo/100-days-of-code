@@ -43,4 +43,11 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 6: January 14, 2017
+
+**Today's Progress**: Still working on the thumbnail images, halfway through
+
+**Thoughts:** Need to practice CSS more on positioning and transitions
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
