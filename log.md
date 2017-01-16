@@ -51,3 +51,20 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+
+### Day 7: January 15, 2017
+
+**Today's Progress**: Still working on the thumbnail images learnt a lot about transitions and transformations
+
+**Thoughts:** Moved slower on the weekend than initially planned and spend most of my time reading and learning about CSS
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 8: January 16, 2017
+
+**Today's Progress**: Finished the thumbnail images about the projects and redesigned the touch and feel of the page
+
+**Thoughts:** I need to spend some more time studying the different elements of the CSS library
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
