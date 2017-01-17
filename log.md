@@ -68,3 +68,11 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 9: January 17, 2017
+
+**Today's Progress**: Completed the portfolio page and moved on to JS
+
+**Thoughts:** While learning about JS I should keep practicing CSS and HTML to keep and deepen the knowledge
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
