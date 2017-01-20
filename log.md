@@ -76,7 +76,7 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
-### Day 10: January 17, 2017
+### Day 10: January 18, 2017
 
 **Today's Progress**: Started JS 
 
@@ -84,12 +84,22 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
-### Day 11 January 17, 2017
+### Day 11 January 19, 2017
 
 **Today's Progress**: Continued with JS half of the challenge is done
 
 **Thoughts:** Moved onto basic functions and arrays
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 12 January 20, 2017
+
+**Today's Progress**: Refreshing my knowledge on JS functions, if statements
+
+**Thoughts:** Looking forward to seeing the projects and challenges coming up
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+
 
 
