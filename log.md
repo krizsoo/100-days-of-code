@@ -100,6 +100,11 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 13 January 21, 2017
 
+**Today's Progress**: Still pushing FCC's JS modules
 
+**Thoughts:** Looking forward to seeing the projects and challenges coming up
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
