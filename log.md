@@ -108,3 +108,19 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 14 January 22, 2017
+
+**Today's Progress**: Objects and Arrays in JS
+
+**Thoughts:** Need some time focused on algorithms
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 15 January 23, 2017
+
+**Today's Progress**: Loops and lookups in an object
+
+**Thoughts:** Had a bit of a challenge looping through an object as made a mistake on the last line in the if statement and all loops would return the same line. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
