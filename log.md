@@ -124,3 +124,19 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 16 January 24, 2017
+
+**Today's Progress**: Opbject oriented programming, contributor functions
+
+**Thoughts:** Had to look for help for the first time, turned out that gear is not something you increment infinitly on a motorbike. silly me. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 17 January 25, 2017
+
+**Today's Progress**: Object oriented and functional programming methods, split, join, reverse, filter etc. Also completed the first 2 JS challenges
+
+**Thoughts:** finally moved onto the JS challenges and need be practicing the syntax of JS more to know when to use colon, semicolon etc.
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
