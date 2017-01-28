@@ -140,3 +140,27 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 18 January 26, 2017
+
+**Today's Progress**: Progressed with the JS challenges with great pace. Completed about a 50% in a few hours.
+
+**Thoughts:** Possibly moving too fast, the purpose of this is not to get through this as quickly as possible but with as deep knowledge as possible. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 19 January 27, 2017
+
+**Today's Progress**: Fell behind on logging, but kept coding. Only 3 to go from the JS challenges 
+
+**Thoughts:** First real block. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 20 January 28, 2017
+
+**Today's Progress**: Finished the JS challenges after being blocked for a few hours on one of them. Did not give up!
+
+**Thoughts:** hacked the challenge by hard coding logic and learned after how I could have done it better. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
