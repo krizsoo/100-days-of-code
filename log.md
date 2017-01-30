@@ -173,3 +173,11 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 22 January 30, 2017
+
+**Today's Progress**: Managed to call forismatic's random quote API, quote text is displayed on the page afte clicking a button 
+
+**Thoughts:** found it particularly challenging to navigate in the jQuery syntax and to use ajax. Need to spend some more time studying these. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/) - updated with the random quotes page
+
