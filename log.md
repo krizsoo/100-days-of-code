@@ -164,3 +164,12 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+
+### Day 21 January 29, 2017
+
+**Today's Progress**: Learnt about Ajax and jQuery again and started the random quote app
+
+**Thoughts:** need to spend some time on udnerstanding how to link the quote API to my page. CSS and HTML were surprisingly easy to return to after JS.
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
