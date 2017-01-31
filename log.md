@@ -181,3 +181,11 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/) - updated with the random quotes page
 
+### Day 23 January 31, 2017
+
+**Today's Progress**: Finished the functionality part of the random quote app, will use tomorrow to pimp it up a bit. 
+
+**Thoughts:** After the API work had been done the rest (HTML and CSS) were fairly easy, though not the coolest design. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
