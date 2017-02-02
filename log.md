@@ -189,3 +189,19 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 24 February 1, 2017
+
+**Today's Progress**: Did not do any coding unfortunately due to illness. 
+
+**Thoughts:** Still feel really bad about the lost time and will work twice as hard from now now. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 25 February 2, 2017
+
+**Today's Progress**: Debugged the random quote app as the bootstrap button display had problems on mobile screens. 
+
+**Thoughts:** had to make up for the lost time yesterday. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
