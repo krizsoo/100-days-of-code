@@ -205,3 +205,13 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 26 February 3, 2017
+
+**Today's Progress**: Did some more work on the design of the random quote app to learn more CSS. 
+
+**Thoughts:** found a few challenges especially on mobile screen display. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+
+
