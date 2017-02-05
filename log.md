@@ -205,11 +205,19 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
-### Day 26 February 3, 2017
+### Day 27 February 4, 2017
 
-**Today's Progress**: Did some more work on the design of the random quote app to learn more CSS. 
+**Today's Progress**: Started with the the weather app and played with the geo location
 
-**Thoughts:** found a few challenges especially on mobile screen display. 
+**Thoughts:** had difficulty fetching lat/long and finally found out that getgeolocation only workds with https now.  
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 28 February 5, 2017
+
+**Today's Progress**: Managed to display weather based on geo of the user's browser. Had to use google geo API
+
+**Thoughts:** need to remind myself over and over again not to move too fast with projects and gain deep knowledge in JS and Jquery syntax. 
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
