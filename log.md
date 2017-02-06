@@ -221,5 +221,13 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 29 February 6, 2017
+
+**Today's Progress**: Weather app displays temprature and icon based on location still need to add the F/C toggle
+
+**Thoughts:** feels good that I am moving a lot faster in JS and Jquery now. Practice is all it takes.
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
 
 
