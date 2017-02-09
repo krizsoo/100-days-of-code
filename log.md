@@ -229,5 +229,29 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 30 February 7, 2017
+
+**Today's Progress**: Added the F/C toggle to the weather app based on a third party toggle
+
+**Thoughts:** Weather app is fully functioning but need to learn more about jquery and JS
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 31 February 8, 2017
+
+**Today's Progress**: Went back to the original Jquery exercises in FCC to reinforce the knowledge and also read teh Jquery API documentation in more detail
+
+**Thoughts:** Jquery makes a lot more sense know just need to make sure that I practice enough.
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 32 February 9, 2017
+
+**Today's Progress**: Got back to the Weather app and added a new toggle and fixed some other design elements. 
+
+**Thoughts:** Need to practice more on CSS transitions and checkboxes. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
 
 
