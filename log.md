@@ -253,5 +253,12 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 33 February 10, 2017
+
+**Today's Progress**: Did not start the next FCC challenge yet to practice more JQuery and understand how it interacts with HTML and CSS on the page 
+
+**Thoughts:** Stuck with converting F to C on the weather app. Will continue tomorrow 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
 
