@@ -261,4 +261,12 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 34 February 11, 2017
+
+**Today's Progress**: Spent further time on Jquery to deepen my knowledge and using the weather app to practice. Managed to complete the F/C conversion
+
+**Thoughts:** Planning to add google maps to select weather based on selection 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
 
