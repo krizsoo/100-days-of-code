@@ -269,4 +269,12 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 35 February 12, 2017
+
+**Today's Progress**: Decided to pimp the weather app further and add ore functionality with the google map API to be able to search based on location
+
+**Thoughts:** I realize over and over again how little I know about the javascript syntax still. Need to keep working hard. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
 
