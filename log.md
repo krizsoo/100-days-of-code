@@ -277,4 +277,12 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 36 February 13, 2017
+
+**Today's Progress**: Trying to link the google map search box to the weather app API 
+
+**Thoughts:** Need to spend some more time on the architecture tomorrow because the initial weather display overrides the initMap funtion 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
 
