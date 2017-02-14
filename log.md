@@ -285,4 +285,12 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 37 February 14, 2017
+
+**Today's Progress**: Google map search box is linked to the weather API you can check the weather anywhere around the world. 
+
+**Thoughts:** My assupmption was correct and managed to make the search box work. Tomorrow I would like to add more weather data and possibly a clock with the time as well.  
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
 
