@@ -293,4 +293,12 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 38 February 15, 2017
+
+**Today's Progress**: Added a 3 day weather forecast to the weather app. 
+
+**Thoughts:** Adding an additional API call and 3 extra modules took signifficantly less time than building it initially. Tomorrow I will move on to the next challenge.
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
 
