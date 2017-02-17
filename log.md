@@ -301,4 +301,20 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 39 February 16, 2017
+
+**Today's Progress**: Started designing the wikipedia app. 
+
+**Thoughts:** My plan is to work on the design just as if it was a proper project while learning more about Jquery animations and CSS transitions
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 40 February 17, 2017
+
+**Today's Progress**: Continued working on the Wikipedia app and fixed a small bug in the weather app. 
+
+**Thoughts:** I would like to spend some time on playing with the animations and the design before moving onto the API calls
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
 
