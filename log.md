@@ -317,4 +317,35 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 41 February 18, 2017
+
+**Today's Progress**: Continued working on the Wikipedia app. 
+
+**Thoughts:** I found it quite difficult to understand the documentation of the wikipedia API 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 42 February 19, 2017
+
+**Today's Progress**: Continued working on the Wikipedia
+
+**Thoughts:** Managed to display top results on the search page
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 43 February 20, 2017
+
+**Today's Progress**: Continued working on the Wikipedia app
+
+**Thoughts:** Made minimal progress today and added missing stories as comments to the code that helped prioritize and focus
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 44 February 23, 2017
+
+**Today's Progress**: Finished the wikipedia app after 2 days break due to family reasons
+
+**Thoughts:** Found it really rewarding to take a small break as most of the things just worked like a charm straight away without much resarch. Added the random button, fixed links and optimized the code by removing repetition and replacing it with loops
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
