@@ -349,3 +349,11 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 45 February 24, 2017
+
+**Today's Progress**: Nearly completed the twitch.tv app in one go. Switch needs to be added to display only online/offline channels. 
+
+**Thoughts:** Moving a lot faster now with a lot of actual syntax is in my head and need no help from online
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
