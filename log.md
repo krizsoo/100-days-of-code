@@ -357,3 +357,11 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 46 February 25, 2017
+
+**Today's Progress**: Worked some more on the twitch.tv app. 
+
+**Thoughts:** need to figure out how to distinguish between online and offline channels.
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
