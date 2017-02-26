@@ -365,3 +365,11 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 47 February 26, 2017
+
+**Today's Progress**: Nearly finished twitch.tv app all functionality works. Desing needs lots of fixing as well as need to add error messages. 
+
+**Thoughts:** Code works though could be written with a lot less lines a lot more efficiently. Will work on this tomorrow. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
