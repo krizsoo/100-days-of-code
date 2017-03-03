@@ -373,3 +373,31 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 48 February 27, 2017
+
+**Today's Progress**: Finished the Twitch.tv app with all of its fucntionality. Will return to improve design. 
+
+**Thoughts:** Have not really managed to cut back on the JS code but all functionality works.  
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 49 March 2, 2017
+
+**Today's Progress**: Moved onto intermediate scripting exercises in FCC and completed the first challenge
+
+**Thoughts:** Enjoy having to work on more complex logical challenges in JS. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 50 March 3, 2017
+
+**Today's Progress**: Completed 2 other challenges in the intermediate scripting section.
+
+**Thoughts:** I would like to get deeper into logical problems to improve the efficiency of my code
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+
+
+
+
