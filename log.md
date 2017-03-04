@@ -397,6 +397,14 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 51 March 4, 2017
+
+**Today's Progress**: Got stuck with a challenge today until I finnally managed to figure it out.
+
+**Thoughts:** Learnt a lot about codeblocks and statement labels 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
 
 
 
