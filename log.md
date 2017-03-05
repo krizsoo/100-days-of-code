@@ -405,6 +405,15 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 52 March 5, 2017
+
+**Today's Progress**: Worked further on the intermediate challenges.
+
+**Thoughts:** Need to find a book / material about basic algorithmical thinking
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+
 
 
 
