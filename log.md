@@ -413,8 +413,37 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 53 March 6, 2017
 
+**Today's Progress**: Worked further on the intermediate challenges and practiced array methods
 
+**Thoughts:** 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 54 March 7, 2017
+
+**Today's Progress**: Worked further on the intermediate challenges.
+
+**Thoughts:** 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 55 March 8, 2017
+
+**Today's Progress**: Worked further on the intermediate challenges and played with regular expressions
+
+**Thoughts:** 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
+### Day 56 March 9, 2017
+
+**Today's Progress**: Worked further on the intermediate challenges and completed the fibonacci challenge
+
+**Thoughts:** 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
 
 
