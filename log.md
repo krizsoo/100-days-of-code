@@ -445,5 +445,13 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 57-64 March 10-19, 2017
+
+**Today's Progress**: Fiinally managed to finish the intermediate challenges in FCC. Took much longer than expected mainly due to personal reasons. 
+
+**Thoughts:** Spent some time every day either studying JS or writing a few lines of code. I understand a lot more about JS and confidentally use loops, if functoins and main methods of the language.
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
 
 
