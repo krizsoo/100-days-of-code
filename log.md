@@ -451,7 +451,14 @@
 
 **Thoughts:** Spent some time every day either studying JS or writing a few lines of code. I understand a lot more about JS and confidentally use loops, if functoins and main methods of the language.
 
-**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK)
 
+### Day 64-68 March 20-25, 2017
+
+**Today's Progress**: Finished the first advance algorithm challenge in FCC, learnt a lot more about regular expressions
+
+**Thoughts:** Still very enthusiastic about learning code. I will have to work on a better schedule to stick to the daily 1 hour. On average I am on track, but would like to move faster. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
 
