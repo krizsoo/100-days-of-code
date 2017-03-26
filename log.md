@@ -461,4 +461,12 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 69 March 26, 2017
+
+**Today's Progress**: Solved the next algorithm challenge and learnt a lot about the reduce method. 
+
+**Thoughts:** Finally had an hour of uninterupted time again to work on the code.
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
 
