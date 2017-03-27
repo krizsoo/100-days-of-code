@@ -469,4 +469,12 @@
 
 **Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
 
+### Day 70 March 27, 2017
+
+**Today's Progress**: Still stuck on the symmetric difference challenge, I can solve it with a bunch of loops but looking for a more elegant solution with reduce, finally I think I understand it 
+
+**Thoughts:** Would have to spend more time working on this. 
+
+**Link to work:** [Portfolio page](http://codepen.io/krizsoo/full/zNGpwK/)
+
 
